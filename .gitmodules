@@ -1,0 +1,3 @@
+[submodule "impair_dwt"]
+	path = impair_dwt
+	url = https://github.com/micshe/impair_dwt.git
